@@ -1,0 +1,3 @@
+Esto es un simulacro
+
+Aquí vamos a ahacer unas pruebas con git...
