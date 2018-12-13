@@ -9,4 +9,5 @@ Esta sería la verison de explotación
 ---
 
 INTERNO:
-Este es mi nuevo párrafo que aún no quiero que el cliente vea
+Este es mi nuevo párrafo que aún no quiero que el cliente vea.
+Hago más cambios en interno.
