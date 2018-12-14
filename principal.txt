@@ -4,7 +4,17 @@ Aquí vamos a hacer unas pruebas con git...
 Empezamos a trabajar
 
 
+<<<<<<< HEAD
 ---===---
 * Esta sería la verison de explotación *
 ---===---
 
+=======
+---
+Esta sería la verison de explotación
+---
+
+INTERNO:
+Este es mi nuevo párrafo que aún no quiero que el cliente vea.
+Hago más cambios en interno.
+>>>>>>> interno
